@@ -1,5 +1,10 @@
+## Hi I am Keilan!
 
-Hello, I am a Data Science Graduate who recently graduated from Liverpool John Moores University.
+- I am a Data Science Graduate who recently graduated from Liverpool John Moores University.
+- I have completed many University courseworks which include; implementing Machine Learning algorithms, ensemble modeling, data scrpaing and data analysis. 
+- I have created FPL prediction models in Excel, R and Python.
+- I enjoy creating visualisations related to Football and Fanstasy Premier League, FPL.
+
 
 Plots made in R:
 
