@@ -13,8 +13,8 @@ I am a Data Science Graduate who recently graduated from Liverpool John Moores U
 **Data Science** - Liverpool John Moores University, 2019-2022.
 
 ## Hobbies
-- **Football & Football Analytics: ** Played Football a lot as a kid and enjoyed attending Wigan Athletic home games from 2008 to 2013. Due to Wigan dropping out of the Premier League my interest in Football diminished until discovering Football Analytics and Fantasy Premier League. 
-- **Fantasy Premier League: ** Using analytics and modelling to achieve high ranks, finished 4,848th (top 0.08%) in 2018/19 & 15,788th (top 0.17%) in 2021/22.
-- **Gaming: ** Main interests are competitive gaming and achievement hunting in all types of games.
+- **Football & Football Analytics:** Played Football a lot as a kid and enjoyed attending Wigan Athletic home games from 2008 to 2013. Due to Wigan dropping out of the Premier League my interest in Football diminished until discovering Football Analytics and Fantasy Premier League. 
+- **Fantasy Premier League:** Using analytics and modelling to achieve high ranks, finished 4,848th (top 0.08%) in 2018/19 & 15,788th (top 0.17%) in 2021/22.
+- **Gaming:** Main interests are competitive gaming and achievement hunting in all types of games.
 - **Walks**
-- **Chess: ** Recently began learning chess.
+- **Chess:** Recently began learning chess.
