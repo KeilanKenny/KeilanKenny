@@ -1,4 +1,3 @@
-## Hi I am Keilan!
 
 - I am a Data Science Graduate who recently graduated from Liverpool John Moores University.
 - I have completed many University courseworks which include; implementing Machine Learning algorithms, ensemble modeling, data scrpaing and data analysis. 
