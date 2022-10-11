@@ -8,7 +8,7 @@ I am a Data Science Graduate who recently graduated from Liverpool John Moores U
 - Java
 
 ## Education
-Data Science - Liverpool John Moores University, 2019-2022.
+**Data Science** - Liverpool John Moores University, 2019-2022.
 
 ## Hobbies
 - **Football, Football Analytics & Fantasy Premier League**
