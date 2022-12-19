@@ -7,7 +7,7 @@ I am a Data Science Graduate who recently graduated from Liverpool John Moores U
 - **R** 
 - **Python**
 - **SQL**
-- **Java**
+- **C**
 
 ## Experience
 **Junior Innovation Scientist** - The Floow, 2022-Present.
@@ -19,6 +19,6 @@ I am a Data Science Graduate who recently graduated from Liverpool John Moores U
 
 ## Hobbies
 - **Football & Football Analytics:** Played Football a lot as a kid and enjoyed attending Wigan Athletic home games from 2008 to 2013. Due to Wigan dropping out of the Premier League my interest in Football diminished until discovering Football Analytics and Fantasy Premier League. 
-- **Fantasy Premier League:** Using analytics and modelling to achieve high ranks, finished 4,848th (top 0.08%) in 2018/19 & 15,788th (top 0.17%) in 2021/22. Also finished 1,191st (top 3.3%) in Eliteserien Fantasy in 2022.
+- **Fantasy Premier League:** Using analytics and modelling to achieve high ranks, finished 4,848th (top 0.08%) in 2018/19 & 15,788th (top 0.17%) in 2021/22. Also finished 1,191st (top 3.3%) in Eliteserien Fantasy and 55th (top 0.003%) in World Cup Fantasy in 2022.
 - **Gaming:** Enjoy playing and watching competitive gaming and collecting achievements in all types of games.
 - **Chess:** Recently began learning chess.
