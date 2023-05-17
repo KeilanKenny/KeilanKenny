@@ -10,7 +10,8 @@ I am a Data Science Graduate who recently graduated from Liverpool John Moores U
 - **C**
 
 ## Experience
-**Junior Innovation Scientist** - The Floow, 2022-Present.
+**Junior Data Science Analyst** - Hoist Finance, 2023.
+**Junior Innovation Scientist** - The Floow, 2022-2023.
 
 ## Education
 **Data Science** - Liverpool John Moores University, 2019-2022.
