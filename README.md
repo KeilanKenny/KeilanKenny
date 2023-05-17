@@ -11,12 +11,11 @@ I am a Data Science Graduate who recently graduated from Liverpool John Moores U
 
 ## Experience
 **Junior Data Science Analyst** - Hoist Finance, 2023.
+
 **Junior Innovation Scientist** - The Floow, 2022-2023.
 
 ## Education
 **Data Science** - Liverpool John Moores University, 2019-2022.
-
-- During University, R was the primarily used programming language alongside Python, where I performed analysis, machine learning techniques and modelling. I also used SQL to complete 2 modules, using Multi dimensional tables and ETL.
 
 ## Hobbies
 - **Football & Football Analytics:** Played Football a lot as a kid and enjoyed attending Wigan Athletic home games from 2008 to 2013. Due to Wigan dropping out of the Premier League my interest in Football diminished until discovering Football Analytics and Fantasy Premier League. 
