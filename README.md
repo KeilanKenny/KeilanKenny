@@ -3,13 +3,14 @@
 ## Introduction
 I am a Data Science Graduate who recently graduated from Liverpool John Moores University where the coursework consisted of; implementing Machine Learning algorithms, ensemble modelling, data scraping and data analysis. I have also created FPL prediction models in Excel, R and Python and I enjoy creating visualisations related to Football and Fantasy Premier League, FPL.
 
-## Programming Languages
-- **R** 
-- **Python**
-- **SQL**
-- **C**
+## Tech Stack
+- **R, Python, SQL** 
+- **Microsoft Azure, Fabric, Power Platform**
+- **Power BI, Tableau**
 
 ## Experience
+**Data Analyst** - DBD International, 2023.
+
 **Junior Data Science Analyst** - Hoist Finance, 2023.
 
 **Junior Innovation Scientist** - The Floow, 2022-2023.
