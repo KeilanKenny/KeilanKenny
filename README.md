@@ -9,11 +9,22 @@ I am a Data Science Graduate who recently graduated from Liverpool John Moores U
 - **Power BI, Tableau**
 
 ## Experience
-**Data Analyst** - DBD International, 2023.
 
-**Junior Data Science Analyst** - Hoist Finance, 2023.
+**DBD International**
 
-**Junior Innovation Scientist** - The Floow, 2022-2023.
+- Lead Data Engineer, 2024-.
+
+- Data Engineer, 2024.
+
+- Data Analyst, 2023-2024.
+
+**Hoist Finance**
+
+- Junior Data Science Analyst, 2023.
+
+**The Floow**
+
+- Junior Innovation Scientist, 2022-2023.
 
 ## Education
 **Data Science** - Liverpool John Moores University, 2019-2022.
