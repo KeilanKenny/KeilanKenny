@@ -1,7 +1,7 @@
 # Keilan Kenny
 
 ## Introduction
-I am a Data Science Graduate who recently graduated from Liverpool John Moores University where the coursework consisted of; implementing Machine Learning algorithms, ensemble modelling, data scraping and data analysis. I have also created FPL prediction models in Excel, R and Python and I enjoy creating visualisations related to Football and Fantasy Premier League, FPL.
+I am a Data Engineer for DBD International as well as a Data Science Graduate. I have helped build a Microsoft data platform covering Azure, Power BI and Power Platform and have experience implementing Machine Learning algorithms, ensemble modelling, data scraping and data analysis. I add my personal projects here on GitHub where I test and learn new skills.
 
 ## Tech Stack
 - **R, Python, SQL** 
