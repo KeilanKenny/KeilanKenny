@@ -1,5 +1,7 @@
 ## Introduction
-I am a Data Engineer for DBD International and a Data Science Graduate. I design, build and maintain Data Pipelines and Infrastructure, develop Power BI reports and apply Machine Learning models for predictive analysis. I also have experience applying Machine Learning algorithms for predictive analysis. I add my personal projects here on GitHub where I test and learn new skills.
+I am a Data Science Graduate working as a Lead Data Engineer at DBD International.  I design, build and maintain data pipelines and infrastructure, develop Power BI reports and apply machine learning models to deliver predictive analysis.
+
+I add my personal projects to GitHub where I test and learn new skills.
 
 ## Tech Stack
 - **R, Python, SQL** 
@@ -30,4 +32,4 @@ I am a Data Engineer for DBD International and a Data Science Graduate. I design
 ## Hobbies
 - **Fantasy Premier League:** Using analytics and modelling to achieve high ranks, finished 4,848th (top 0.08%) in 2018/19 & 15,788th (top 0.17%) in 2021/22. Also finished 1,191st (top 3.3%) in Eliteserien Fantasy and 55th (top 0.003%) in World Cup Fantasy in 2022.
 - **Gaming:** Enjoy playing and watching competitive gaming and collecting achievements.
-- **Movies:** I watch all types of movies and log them to Letterboxd.
+- **Movies:** Watch all types of movies and log them to Letterboxd.
